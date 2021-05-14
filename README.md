@@ -1,4 +1,4 @@
-# Battlecode 2021 M.A.R.S Team
+# Battlecode 2021 M.A.R.S. Team
 
 <img src="https://serpentine.ai/wp-content/uploads/2019/02/Final-design-serpentine.png" width="400px">
 
